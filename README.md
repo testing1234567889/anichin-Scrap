@@ -7,7 +7,7 @@
 ![Pages](https://img.shields.io/badge/Pages-live-orange?style=flat-square&logo=github&logoColor=white)
 ![License](https://img.shields.io/badge/license-personal-blue?style=flat-square)
 
-[**Web Pages**](https://testing1234567889.github.io/anichin-clone/) · [**Lapor bug**](https://t.me/Vessel_HubBot)
+[**Web Pages**](https://testing1234567889.github.io/anichin-Scrap/) · [**Lapor bug**](https://t.me/Vessel_HubBot)
 
 </div>
 
