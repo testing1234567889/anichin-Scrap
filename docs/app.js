@@ -6,10 +6,8 @@ function absoluteThumb(path) {
   return ANICHIN_BASE + path;
 }
 
-function absoluteUrl(path) {
-  if (!path) return "#";
-  if (path.startsWith("http")) return path;
-  return ANICHIN_BASE + path;
+function localEpisodeUrl(slug) {
+  return "episode.html?slug=" + encodeURIComponent(slug);
 }
 
 function renderSlider(items) {
@@ -19,7 +17,7 @@ function renderSlider(items) {
     return;
   }
   el.innerHTML = items.map(item => `
-    <div class="slide" style="background-image:url('${absoluteThumb(item.thumbnail)}')" onclick="window.open('${absoluteUrl(item.url)}','_blank')">
+    <div class="slide" style="background-image:url('${absoluteThumb(item.thumbnail)}')" onclick="location.href='${localEpisodeUrl(item.slug)}'">
       <div class="slide-title">${item.title}</div>
     </div>
   `).join("");
@@ -32,7 +30,7 @@ function renderLatest(items) {
     return;
   }
   el.innerHTML = items.map(item => `
-    <a class="card" href="${absoluteUrl(item.url)}" target="_blank" rel="noopener">
+    <a class="card" href="${localEpisodeUrl(item.slug)}">
       <img class="card-img" src="${absoluteThumb(item.thumbnail)}" alt="${item.title}" loading="lazy">
       <div class="card-body">
         <div class="card-title">${item.title}</div>
