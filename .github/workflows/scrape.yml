@@ -2,9 +2,8 @@ name: Scrape Anichin
 
 on:
   schedule:
-    # Setiap 2 jam. Format cron: menit jam hari bulan hari-minggu
     - cron: "0 */2 * * *"
-  workflow_dispatch:  # bisa trigger manual dari tab Actions
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -27,6 +26,8 @@ jobs:
 
       - name: Run scraper
         working-directory: scraper
+        env:
+          PROXY_LIST: ${{ secrets.PROXY_LIST }}
         run: python main.py
 
       - name: Commit & push data baru
