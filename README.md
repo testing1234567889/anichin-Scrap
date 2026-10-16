@@ -13,7 +13,7 @@
 
 ---
 
-Proyek Tumbal
+                                                Proyek Tumbal DASAR Simpel Scrap
 ## Isi
 
 - `scraper/` — kode Python buat ambil dan parse data
