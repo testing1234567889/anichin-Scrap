@@ -37,6 +37,7 @@ Link streaming dan download dari pihak ketiga. Kalau rusak, di luar kendali.
 ## Lisensi
 
 Bukan afiliasi Anichin. Proyek latihan pribadi.
+Thansk TO [**REA**](https://github.com/morluto/rea)
 
 <div align="center">
 
