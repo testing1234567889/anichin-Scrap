@@ -1,10 +1,16 @@
 {
   "slider": [
     {
-      "title": "A Record of A Mortal’s Journey to Immortality",
-      "url": "/a-record-of-a-mortals-journey-to-immortality/",
-      "slug": "a-record-of-a-mortals-journey-to-immortality",
-      "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
+      "title": "Soul Land 2: The Unrivaled Tang Sect",
+      "url": "/soul-land-2-the-unrivaled-tang-sect/",
+      "slug": "soul-land-2-the-unrivaled-tang-sect",
+      "thumbnail": "/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Renegade Immortal Movie: Battle Of The Gods",
+      "url": "/renegade-immortal-movie-battle-of-the-gods/",
+      "slug": "renegade-immortal-movie-battle-of-the-gods",
+      "thumbnail": "/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp"
     },
     {
       "title": "Renegade Immortal",
@@ -17,18 +23,6 @@
       "url": "/azure-legacy/",
       "slug": "azure-legacy",
       "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
-      "url": "/renegade-immortal-movie-slaying-the-blood-progenitor/",
-      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
-      "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Renegade Immortal Movie: Battle Of The Gods",
-      "url": "/renegade-immortal-movie-battle-of-the-gods/",
-      "slug": "renegade-immortal-movie-battle-of-the-gods",
-      "thumbnail": "/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp"
     },
     {
       "title": "BTTH SEASON 1-4",
@@ -49,10 +43,10 @@
       "thumbnail": "/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp"
     },
     {
-      "title": "Soul Land 2: The Unrivaled Tang Sect",
-      "url": "/soul-land-2-the-unrivaled-tang-sect/",
-      "slug": "soul-land-2-the-unrivaled-tang-sect",
-      "thumbnail": "/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp"
+      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
+      "url": "/renegade-immortal-movie-slaying-the-blood-progenitor/",
+      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
+      "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
     },
     {
       "title": "Yi Nian Yong Heng Season 4",
@@ -61,19 +55,70 @@
       "thumbnail": "/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp"
     },
     {
+      "title": "Shrouding the Heavens",
+      "url": "/shrouding-the-heavens/",
+      "slug": "shrouding-the-heavens",
+      "thumbnail": "/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp"
+    },
+    {
       "title": "Tales of Herding Gods",
       "url": "/tales-of-herding-god/",
       "slug": "tales-of-herding-god",
       "thumbnail": "/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp"
     },
     {
-      "title": "Shrouding the Heavens",
-      "url": "/shrouding-the-heavens/",
-      "slug": "shrouding-the-heavens",
-      "thumbnail": "/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp"
+      "title": "A Record of A Mortal’s Journey to Immortality",
+      "url": "/a-record-of-a-mortals-journey-to-immortality/",
+      "slug": "a-record-of-a-mortals-journey-to-immortality",
+      "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
     }
   ],
   "latest": [
+    {
+      "title": "Lord of the Ancient God Grave Episode 492 Subtitle Indonesia",
+      "url": "/lord-of-the-ancient-god-grave-episode-492-subtitle-indonesia/",
+      "slug": "lord-of-the-ancient-god-grave-episode-492-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2026/07/WAN-JIE-DU-ZUN-SUBTITLE-INDONESIA.webp",
+      "episode": "Ep 492",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "Tales of Demons and Gods Season 10 Episode 29 Subtitle Indonesia",
+      "url": "/tales-of-demons-and-gods-season-10-episode-29-subtitle-indonesia/",
+      "slug": "tales-of-demons-and-gods-season-10-episode-29-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2026/07/Tales-of-Demons-and-Gods-Season-10-Subtitle-Indonesia.webp",
+      "episode": "Ep 29",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "A Record of A Mortal’s Journey to Immortality Episode 196 Subtitle Indonesia",
+      "url": "/a-record-of-a-mortals-journey-to-immortality-episode-196-subtitle-indonesia/",
+      "slug": "a-record-of-a-mortals-journey-to-immortality-episode-196-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2020/07/A-Record-of-A-Mortals-Journey-to-Immortality-Subtitle-Indonesia-1.webp",
+      "episode": "Ep 196",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "Beyond Time’s Gaze Episode 44 Subtitle Indonesia",
+      "url": "/beyond-times-gaze-episode-44-subtitle-indonesia/",
+      "slug": "beyond-times-gaze-episode-44-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2025/12/Beyond-Times-Gaze-2-Subtitle-Indonesia.webp",
+      "episode": "Ep 44",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "100.000 Years of Refining Qi Episode 386 Subtitle Indonesia",
+      "url": "/100-000-years-of-refining-qi-episode-386-subtitle-indonesia/",
+      "slug": "100-000-years-of-refining-qi-episode-386-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2023/02/100.000-Years-of-Refining-Qi-1.jpg",
+      "episode": "Ep 386",
+      "type": "Donghua",
+      "status": null
+    },
     {
       "title": "A Good Day to Ascend Episode 16 Subtitle Indonesia",
       "url": "/a-good-day-to-ascend-episode-16-subtitle-indonesia/",
@@ -208,52 +253,7 @@
       "episode": "Ep 59",
       "type": "Donghua",
       "status": null
-    },
-    {
-      "title": "Raised by Demons: Panda Li Episode 14 Subtitle Indonesia",
-      "url": "/raised-by-demons-panda-li-episode-14-subtitle-indonesia/",
-      "slug": "raised-by-demons-panda-li-episode-14-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/07/Raised-by-Demons-Panda-Li-Subtitle-Indonesia.webp",
-      "episode": "Ep 14",
-      "type": "Donghua",
-      "status": null
-    },
-    {
-      "title": "To Be Winner Episode 13 Subtitle Indonesia",
-      "url": "/to-be-winner-episode-13-subtitle-indonesia/",
-      "slug": "to-be-winner-episode-13-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/08/To-Be-Winner-Subtitle-Indonesia.webp",
-      "episode": "Ep 13",
-      "type": "Donghua",
-      "status": null
-    },
-    {
-      "title": "Under the Gate Episode 19 Subtitle Indonesia",
-      "url": "/under-the-gate-episode-19-subtitle-indonesia/",
-      "slug": "under-the-gate-episode-19-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/08/Under-the-Gate-Subtitle-Indonesia.webp",
-      "episode": "Ep 19",
-      "type": "Donghua",
-      "status": null
-    },
-    {
-      "title": "Aliens Among Immortals Episode 60 Tamat Subtitle Indonesia",
-      "url": "/aliens-among-immortals-episode-60-tamat-subtitle-indonesia/",
-      "slug": "aliens-among-immortals-episode-60-tamat-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/03/Aliens-Among-Immortals-Subtitle-Indonesia.webp",
-      "episode": "Ep 60",
-      "type": "Donghua",
-      "status": "Completed"
-    },
-    {
-      "title": "Spirit Realm Walker Episode 08 Subtitle Indonesia",
-      "url": "/spirit-realm-walker-episode-08-subtitle-indonesia/",
-      "slug": "spirit-realm-walker-episode-08-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/09/Spirit-Realm-Walker.webp",
-      "episode": "Ep 08",
-      "type": "Donghua",
-      "status": null
     }
   ],
-  "scraped_at": "2026-10-17T02:37:53.604373+00:00"
+  "scraped_at": "2026-10-17T08:12:21.365009+00:00"
 }
