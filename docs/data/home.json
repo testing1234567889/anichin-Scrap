@@ -7,16 +7,22 @@
       "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
     },
     {
+      "title": "Tales of Herding Gods",
+      "url": "/tales-of-herding-god/",
+      "slug": "tales-of-herding-god",
+      "thumbnail": "/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Shrouding the Heavens",
+      "url": "/shrouding-the-heavens/",
+      "slug": "shrouding-the-heavens",
+      "thumbnail": "/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp"
+    },
+    {
       "title": "Soul Land 2: The Unrivaled Tang Sect",
       "url": "/soul-land-2-the-unrivaled-tang-sect/",
       "slug": "soul-land-2-the-unrivaled-tang-sect",
       "thumbnail": "/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "BTTH SEASON 1-4",
-      "url": "/btth-full-s1-s4/",
-      "slug": "btth-full-s1-s4",
-      "thumbnail": "/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp"
     },
     {
       "title": "Perfect World",
@@ -31,16 +37,22 @@
       "thumbnail": "/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp"
     },
     {
+      "title": "BTTH SEASON 5",
+      "url": "/oyen-pertempuran-akhir-sekte-misty-cloud/",
+      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
+      "thumbnail": "/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp"
+    },
+    {
+      "title": "BTTH SEASON 1-4",
+      "url": "/btth-full-s1-s4/",
+      "slug": "btth-full-s1-s4",
+      "thumbnail": "/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp"
+    },
+    {
       "title": "Azure Legacy",
       "url": "/azure-legacy/",
       "slug": "azure-legacy",
       "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "A Record of A Mortal’s Journey to Immortality",
-      "url": "/a-record-of-a-mortals-journey-to-immortality/",
-      "slug": "a-record-of-a-mortals-journey-to-immortality",
-      "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
     },
     {
       "title": "Yi Nian Yong Heng Season 4",
@@ -49,31 +61,37 @@
       "thumbnail": "/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp"
     },
     {
-      "title": "Shrouding the Heavens",
-      "url": "/shrouding-the-heavens/",
-      "slug": "shrouding-the-heavens",
-      "thumbnail": "/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp"
+      "title": "A Record of A Mortal’s Journey to Immortality",
+      "url": "/a-record-of-a-mortals-journey-to-immortality/",
+      "slug": "a-record-of-a-mortals-journey-to-immortality",
+      "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
     },
     {
       "title": "Renegade Immortal Movie: Battle Of The Gods",
       "url": "/renegade-immortal-movie-battle-of-the-gods/",
       "slug": "renegade-immortal-movie-battle-of-the-gods",
       "thumbnail": "/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp"
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "url": "/tales-of-herding-god/",
-      "slug": "tales-of-herding-god",
-      "thumbnail": "/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "BTTH SEASON 5",
-      "url": "/oyen-pertempuran-akhir-sekte-misty-cloud/",
-      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
-      "thumbnail": "/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp"
     }
   ],
   "latest": [
+    {
+      "title": "The Great Ruler 3D Episode 96 Subtitle Indonesia",
+      "url": "/the-great-ruler-3d-episode-96-subtitle-indonesia/",
+      "slug": "the-great-ruler-3d-episode-96-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2023/06/The-Great-Ruler-3D-Subtitle-Indonesia.webp",
+      "episode": "Ep 96",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "Ancient God Sovereign Episode 28 Subtitle Indonesia",
+      "url": "/ancient-god-sovereign-episode-28-subtitle-indonesia/",
+      "slug": "ancient-god-sovereign-episode-28-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2026/07/Ancient-God-Sovereign.webp",
+      "episode": "Ep 28",
+      "type": "Donghua",
+      "status": null
+    },
     {
       "title": "XI XING JI ASURA SEASON 2 EPISODE 07 SUBTITLE INDONESIA",
       "url": "/xi-xing-ji-asura-season-2-episode-07-subtitle-indonesia/",
@@ -129,11 +147,11 @@
       "status": "Completed"
     },
     {
-      "title": "Tales of Demons and Gods Season 10 Episode 51 Subtitle Indonesia",
-      "url": "/tales-of-demons-and-gods-season-10-episode-51-subtitle-indonesia/",
-      "slug": "tales-of-demons-and-gods-season-10-episode-51-subtitle-indonesia",
+      "title": "The Great Ruler Chibi: Kota Kecil Great Qian Episode 25 Subtitle Indonesia",
+      "url": "/the-great-ruler-chibi-kota-kecil-great-qian-episode-25-subtitle-indonesia/",
+      "slug": "the-great-ruler-chibi-kota-kecil-great-qian-episode-25-subtitle-indonesia",
       "thumbnail": "/wp-content/uploads/2026/08/The-Great-Ruler-Chibi-Kota-Kecil-Great-Qian-Subtitle-Indonesia.webp",
-      "episode": "Ep 51",
+      "episode": "Ep 25",
       "type": "Donghua",
       "status": null
     },
@@ -235,25 +253,7 @@
       "episode": "Ep 11",
       "type": "Donghua",
       "status": null
-    },
-    {
-      "title": "Against the Sky Supreme Episode 559 Subtitle Indonesia",
-      "url": "/against-the-sky-supreme-episode-559-subtitle-indonesia/",
-      "slug": "against-the-sky-supreme-episode-559-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2021/07/Against.webp",
-      "episode": "Ep 559",
-      "type": "Donghua",
-      "status": null
-    },
-    {
-      "title": "Swallowed Star Episode 246 Subtitle Indonesia",
-      "url": "/swallowed-star-episode-246-subtitle-indonesia/",
-      "slug": "swallowed-star-episode-246-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2020/11/Swallowed-Star-Subtitle-Indonesia.webp",
-      "episode": "Ep 246",
-      "type": "Donghua",
-      "status": null
     }
   ],
-  "scraped_at": "2026-10-22T22:55:21.573904+00:00"
+  "scraped_at": "2026-10-23T02:59:42.037585+00:00"
 }
