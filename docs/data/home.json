@@ -1,28 +1,10 @@
 {
   "slider": [
     {
-      "title": "Tales of Herding Gods",
-      "url": "/tales-of-herding-god/",
-      "slug": "tales-of-herding-god",
-      "thumbnail": "/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Shrouding the Heavens",
-      "url": "/shrouding-the-heavens/",
-      "slug": "shrouding-the-heavens",
-      "thumbnail": "/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Renegade Immortal",
-      "url": "/renegade-immortal/",
-      "slug": "renegade-immortal",
-      "thumbnail": "/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
-      "url": "/renegade-immortal-movie-slaying-the-blood-progenitor/",
-      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
-      "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
+      "title": "Azure Legacy",
+      "url": "/azure-legacy/",
+      "slug": "azure-legacy",
+      "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp"
     },
     {
       "title": "A Record of A Mortal’s Journey to Immortality",
@@ -31,34 +13,10 @@
       "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
     },
     {
-      "title": "Perfect World",
-      "url": "/perfect-world/",
-      "slug": "perfect-world",
-      "thumbnail": "/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "BTTH SEASON 5",
-      "url": "/oyen-pertempuran-akhir-sekte-misty-cloud/",
-      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
-      "thumbnail": "/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp"
-    },
-    {
-      "title": "BTTH SEASON 1-4",
-      "url": "/btth-full-s1-s4/",
-      "slug": "btth-full-s1-s4",
-      "thumbnail": "/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp"
-    },
-    {
-      "title": "Azure Legacy",
-      "url": "/azure-legacy/",
-      "slug": "azure-legacy",
-      "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Renegade Immortal Movie: Battle Of The Gods",
-      "url": "/renegade-immortal-movie-battle-of-the-gods/",
-      "slug": "renegade-immortal-movie-battle-of-the-gods",
-      "thumbnail": "/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp"
+      "title": "Renegade Immortal",
+      "url": "/renegade-immortal/",
+      "slug": "renegade-immortal",
+      "thumbnail": "/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp"
     },
     {
       "title": "Soul Land 2: The Unrivaled Tang Sect",
@@ -67,13 +25,64 @@
       "thumbnail": "/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp"
     },
     {
+      "title": "Shrouding the Heavens",
+      "url": "/shrouding-the-heavens/",
+      "slug": "shrouding-the-heavens",
+      "thumbnail": "/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp"
+    },
+    {
       "title": "Yi Nian Yong Heng Season 4",
       "url": "/yi-nian-yong-heng-season-4/",
       "slug": "yi-nian-yong-heng-season-4",
       "thumbnail": "/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "BTTH SEASON 5",
+      "url": "/oyen-pertempuran-akhir-sekte-misty-cloud/",
+      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
+      "thumbnail": "/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp"
+    },
+    {
+      "title": "Renegade Immortal Movie: Battle Of The Gods",
+      "url": "/renegade-immortal-movie-battle-of-the-gods/",
+      "slug": "renegade-immortal-movie-battle-of-the-gods",
+      "thumbnail": "/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp"
+    },
+    {
+      "title": "Tales of Herding Gods",
+      "url": "/tales-of-herding-god/",
+      "slug": "tales-of-herding-god",
+      "thumbnail": "/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
+      "url": "/renegade-immortal-movie-slaying-the-blood-progenitor/",
+      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
+      "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Perfect World",
+      "url": "/perfect-world/",
+      "slug": "perfect-world",
+      "thumbnail": "/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "BTTH SEASON 1-4",
+      "url": "/btth-full-s1-s4/",
+      "slug": "btth-full-s1-s4",
+      "thumbnail": "/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp"
     }
   ],
   "latest": [
+    {
+      "title": "Starting With a King Account Episode 10 Subtitle Indonesia",
+      "url": "/starting-with-a-king-account-episode-10-subtitle-indonesia/",
+      "slug": "starting-with-a-king-account-episode-10-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2026/01/Starting-With-a-King-Account-Subtitle-Indonesia.webp",
+      "episode": "Ep 10",
+      "type": "Donghua",
+      "status": "Completed"
+    },
     {
       "title": "BTTH SEASON 5 EPISODE 216 SUBTITLE INDONESIA",
       "url": "/btth-season-5-episode-216-subtitle-indonesia/",
@@ -244,16 +253,7 @@
       "episode": "Ep 28",
       "type": "Donghua",
       "status": null
-    },
-    {
-      "title": "XI XING JI ASURA SEASON 2 EPISODE 07 SUBTITLE INDONESIA",
-      "url": "/xi-xing-ji-asura-season-2-episode-07-subtitle-indonesia/",
-      "slug": "xi-xing-ji-asura-season-2-episode-07-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/10/XI-XING-JI-ASURA-SEASON-2-SUBTITLE-INDONESIA.jpg",
-      "episode": "Ep 07",
-      "type": "Donghua",
-      "status": null
     }
   ],
-  "scraped_at": "2026-10-24T17:09:09.978012+00:00"
+  "scraped_at": "2026-10-24T20:04:56.637507+00:00"
 }
