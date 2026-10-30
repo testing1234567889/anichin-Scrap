@@ -1,16 +1,28 @@
 {
   "slider": [
     {
-      "title": "Yi Nian Yong Heng Season 4",
-      "url": "/yi-nian-yong-heng-season-4/",
-      "slug": "yi-nian-yong-heng-season-4",
-      "thumbnail": "/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp"
+      "title": "BTTH SEASON 1-4",
+      "url": "/btth-full-s1-s4/",
+      "slug": "btth-full-s1-s4",
+      "thumbnail": "/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp"
     },
     {
-      "title": "Renegade Immortal",
-      "url": "/renegade-immortal/",
-      "slug": "renegade-immortal",
-      "thumbnail": "/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp"
+      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
+      "url": "/renegade-immortal-movie-slaying-the-blood-progenitor/",
+      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
+      "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Perfect World",
+      "url": "/perfect-world/",
+      "slug": "perfect-world",
+      "thumbnail": "/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Azure Legacy",
+      "url": "/azure-legacy/",
+      "slug": "azure-legacy",
+      "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp"
     },
     {
       "title": "Shrouding the Heavens",
@@ -25,10 +37,28 @@
       "thumbnail": "/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp"
     },
     {
-      "title": "Perfect World",
-      "url": "/perfect-world/",
-      "slug": "perfect-world",
-      "thumbnail": "/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp"
+      "title": "A Record of A Mortal’s Journey to Immortality",
+      "url": "/a-record-of-a-mortals-journey-to-immortality/",
+      "slug": "a-record-of-a-mortals-journey-to-immortality",
+      "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
+    },
+    {
+      "title": "Yi Nian Yong Heng Season 4",
+      "url": "/yi-nian-yong-heng-season-4/",
+      "slug": "yi-nian-yong-heng-season-4",
+      "thumbnail": "/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Soul Land 2: The Unrivaled Tang Sect",
+      "url": "/soul-land-2-the-unrivaled-tang-sect/",
+      "slug": "soul-land-2-the-unrivaled-tang-sect",
+      "thumbnail": "/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Renegade Immortal",
+      "url": "/renegade-immortal/",
+      "slug": "renegade-immortal",
+      "thumbnail": "/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp"
     },
     {
       "title": "Renegade Immortal Movie: Battle Of The Gods",
@@ -37,43 +67,58 @@
       "thumbnail": "/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp"
     },
     {
-      "title": "A Record of A Mortal’s Journey to Immortality",
-      "url": "/a-record-of-a-mortals-journey-to-immortality/",
-      "slug": "a-record-of-a-mortals-journey-to-immortality",
-      "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
-    },
-    {
-      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
-      "url": "/renegade-immortal-movie-slaying-the-blood-progenitor/",
-      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
-      "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
-    },
-    {
       "title": "Tales of Herding Gods",
       "url": "/tales-of-herding-god/",
       "slug": "tales-of-herding-god",
       "thumbnail": "/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "BTTH SEASON 1-4",
-      "url": "/btth-full-s1-s4/",
-      "slug": "btth-full-s1-s4",
-      "thumbnail": "/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp"
-    },
-    {
-      "title": "Azure Legacy",
-      "url": "/azure-legacy/",
-      "slug": "azure-legacy",
-      "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Soul Land 2: The Unrivaled Tang Sect",
-      "url": "/soul-land-2-the-unrivaled-tang-sect/",
-      "slug": "soul-land-2-the-unrivaled-tang-sect",
-      "thumbnail": "/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp"
     }
   ],
   "latest": [
+    {
+      "title": "Against the Sky Supreme Episode 562 Subtitle Indonesia",
+      "url": "/against-the-sky-supreme-episode-562-subtitle-indonesia/",
+      "slug": "against-the-sky-supreme-episode-562-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2021/07/Against.webp",
+      "episode": "Ep 562",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "Lingwu Continent Episode 228 Subtitle Indonesia",
+      "url": "/lingwu-continent-episode-228-subtitle-indonesia/",
+      "slug": "lingwu-continent-episode-228-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2024/07/Lingwu-Continent-Subtitle-Indonesia-Anichin.site_.webp",
+      "episode": "Ep 228",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "Azure Legacy Episode 101 Subtitle Indonesia",
+      "url": "/azure-legacy-episode-101-subtitle-indonesia/",
+      "slug": "azure-legacy-episode-101-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Season-3-Subtitle-Indonesia.webp",
+      "episode": "Ep 101",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "The Great Ruler Chibi: Kota Kecil Great Qian Episode 29 Subtitle Indonesia",
+      "url": "/the-great-ruler-chibi-kota-kecil-great-qian-episode-29-subtitle-indonesia/",
+      "slug": "the-great-ruler-chibi-kota-kecil-great-qian-episode-29-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2026/08/The-Great-Ruler-Chibi-Kota-Kecil-Great-Qian-Subtitle-Indonesia.webp",
+      "episode": "Ep 29",
+      "type": "Donghua",
+      "status": null
+    },
+    {
+      "title": "The Great Ruler 3D Episode 97 Subtitle Indonesia",
+      "url": "/the-great-ruler-3d-episode-97-subtitle-indonesia/",
+      "slug": "the-great-ruler-3d-episode-97-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2023/06/The-Great-Ruler-3D-Subtitle-Indonesia.webp",
+      "episode": "Ep 97",
+      "type": "Donghua",
+      "status": null
+    },
     {
       "title": "Jade Dynasty Episode 91 Subtitle Indonesia",
       "url": "/jade-dynasty-episode-91-subtitle-indonesia/",
@@ -201,15 +246,6 @@
       "status": null
     },
     {
-      "title": "Lingwu Continent Episode 227 Subtitle Indonesia",
-      "url": "/lingwu-continent-episode-227-subtitle-indonesia/",
-      "slug": "lingwu-continent-episode-227-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2024/07/Lingwu-Continent-Subtitle-Indonesia-Anichin.site_.webp",
-      "episode": "Ep 227",
-      "type": "Donghua",
-      "status": null
-    },
-    {
       "title": "100.000 Years of Refining Qi Episode 389 Subtitle Indonesia",
       "url": "/100-000-years-of-refining-qi-episode-389-subtitle-indonesia/",
       "slug": "100-000-years-of-refining-qi-episode-389-subtitle-indonesia",
@@ -217,43 +253,7 @@
       "episode": "Ep 389",
       "type": "Donghua",
       "status": null
-    },
-    {
-      "title": "Martial Master Episode 704 Subtitle Indonesia",
-      "url": "/martial-master-episode-704-subtitle-indonesia/",
-      "slug": "martial-master-episode-704-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/07/MARTIAL-MASTER-SUBTITLE-INDONESIA.webp",
-      "episode": "Ep 704",
-      "type": "Donghua",
-      "status": null
-    },
-    {
-      "title": "To Be Winner Episode 15 Subtitle Indonesia",
-      "url": "/to-be-winner-episode-15-subtitle-indonesia/",
-      "slug": "to-be-winner-episode-15-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/08/To-Be-Winner-Subtitle-Indonesia.webp",
-      "episode": "Ep 15",
-      "type": "Donghua",
-      "status": null
-    },
-    {
-      "title": "Against the Sky Supreme Episode 561 Subtitle Indonesia",
-      "url": "/against-the-sky-supreme-episode-561-subtitle-indonesia/",
-      "slug": "against-the-sky-supreme-episode-561-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2021/07/Against.webp",
-      "episode": "Ep 561",
-      "type": "Donghua",
-      "status": null
-    },
-    {
-      "title": "Swallowed Star Episode 247 Subtitle Indonesia",
-      "url": "/swallowed-star-episode-247-subtitle-indonesia/",
-      "slug": "swallowed-star-episode-247-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2020/11/Swallowed-Star-Subtitle-Indonesia.webp",
-      "episode": "Ep 247",
-      "type": "Donghua",
-      "status": null
     }
   ],
-  "scraped_at": "2026-10-30T01:30:05.872843+00:00"
+  "scraped_at": "2026-10-30T07:58:16.182689+00:00"
 }
