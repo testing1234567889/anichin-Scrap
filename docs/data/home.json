@@ -1,22 +1,16 @@
 {
   "slider": [
     {
-      "title": "Perfect World",
-      "url": "/perfect-world/",
-      "slug": "perfect-world",
-      "thumbnail": "/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp"
+      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
+      "url": "/renegade-immortal-movie-slaying-the-blood-progenitor/",
+      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
+      "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
     },
     {
-      "title": "BTTH Movie: Battle of Two Emperors",
-      "url": "/btth-movie-battle-of-two-emperors/",
-      "slug": "btth-movie-battle-of-two-emperors",
-      "thumbnail": "/wp-content/uploads/2026/11/BTTH-Movie-Battle-of-Two-Emperors-Cover-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "BTTH SEASON 5",
-      "url": "/oyen-pertempuran-akhir-sekte-misty-cloud/",
-      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
-      "thumbnail": "/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp"
+      "title": "Tales of Herding Gods",
+      "url": "/tales-of-herding-god/",
+      "slug": "tales-of-herding-god",
+      "thumbnail": "/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp"
     },
     {
       "title": "Soul Land 2: The Unrivaled Tang Sect",
@@ -25,28 +19,10 @@
       "thumbnail": "/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp"
     },
     {
-      "title": "Yi Nian Yong Heng Season 4",
-      "url": "/yi-nian-yong-heng-season-4/",
-      "slug": "yi-nian-yong-heng-season-4",
-      "thumbnail": "/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
-      "url": "/renegade-immortal-movie-slaying-the-blood-progenitor/",
-      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
-      "thumbnail": "/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "Azure Legacy",
-      "url": "/azure-legacy/",
-      "slug": "azure-legacy",
-      "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp"
-    },
-    {
-      "title": "BTTH SEASON 1-4",
-      "url": "/btth-full-s1-s4/",
-      "slug": "btth-full-s1-s4",
-      "thumbnail": "/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp"
+      "title": "BTTH Movie: Battle of Two Emperors",
+      "url": "/btth-movie-battle-of-two-emperors/",
+      "slug": "btth-movie-battle-of-two-emperors",
+      "thumbnail": "/wp-content/uploads/2026/11/BTTH-Movie-Battle-of-Two-Emperors-Cover-Subtitle-Indonesia.webp"
     },
     {
       "title": "Shrouding the Heavens",
@@ -55,10 +31,28 @@
       "thumbnail": "/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp"
     },
     {
-      "title": "Tales of Herding Gods",
-      "url": "/tales-of-herding-god/",
-      "slug": "tales-of-herding-god",
-      "thumbnail": "/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp"
+      "title": "A Record of A Mortal’s Journey to Immortality",
+      "url": "/a-record-of-a-mortals-journey-to-immortality/",
+      "slug": "a-record-of-a-mortals-journey-to-immortality",
+      "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
+    },
+    {
+      "title": "BTTH SEASON 1-4",
+      "url": "/btth-full-s1-s4/",
+      "slug": "btth-full-s1-s4",
+      "thumbnail": "/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp"
+    },
+    {
+      "title": "Azure Legacy",
+      "url": "/azure-legacy/",
+      "slug": "azure-legacy",
+      "thumbnail": "/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "BTTH SEASON 5",
+      "url": "/oyen-pertempuran-akhir-sekte-misty-cloud/",
+      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
+      "thumbnail": "/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp"
     },
     {
       "title": "Renegade Immortal Movie: Battle Of The Gods",
@@ -73,13 +67,28 @@
       "thumbnail": "/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp"
     },
     {
-      "title": "A Record of A Mortal’s Journey to Immortality",
-      "url": "/a-record-of-a-mortals-journey-to-immortality/",
-      "slug": "a-record-of-a-mortals-journey-to-immortality",
-      "thumbnail": "/wp-content/uploads/2020/07/554918.jpg"
+      "title": "Perfect World",
+      "url": "/perfect-world/",
+      "slug": "perfect-world",
+      "thumbnail": "/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp"
+    },
+    {
+      "title": "Yi Nian Yong Heng Season 4",
+      "url": "/yi-nian-yong-heng-season-4/",
+      "slug": "yi-nian-yong-heng-season-4",
+      "thumbnail": "/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp"
     }
   ],
   "latest": [
+    {
+      "title": "Jade Dynasty Episode 92 Subtitle Indonesia",
+      "url": "/jade-dynasty-episode-92-subtitle-indonesia/",
+      "slug": "jade-dynasty-episode-92-subtitle-indonesia",
+      "thumbnail": "/wp-content/uploads/2022/08/Jade-Dynasty-Season-4-Subtitle-Indonesia.webp",
+      "episode": "Ep 92",
+      "type": "Donghua",
+      "status": null
+    },
     {
       "title": "Oriental Martial Academy Episode 17 Subtitle Indonesia",
       "url": "/oriental-martial-academy-episode-17-subtitle-indonesia/",
@@ -250,16 +259,7 @@
       "episode": "Ep 258",
       "type": "Donghua",
       "status": null
-    },
-    {
-      "title": "One Slash to the Heavens Episode 16 Subtitle Indonesia",
-      "url": "/one-slash-to-the-heavens-episode-16-subtitle-indonesia/",
-      "slug": "one-slash-to-the-heavens-episode-16-subtitle-indonesia",
-      "thumbnail": "/wp-content/uploads/2026/07/One-Slash-to-the-Heavens.webp",
-      "episode": "Ep 16",
-      "type": "Donghua",
-      "status": null
     }
   ],
-  "scraped_at": "2026-11-05T08:59:55.536753+00:00"
+  "scraped_at": "2026-11-05T17:49:01.334180+00:00"
 }
