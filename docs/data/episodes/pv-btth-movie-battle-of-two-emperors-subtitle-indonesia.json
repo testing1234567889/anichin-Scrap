@@ -1,0 +1,43 @@
+{
+  "slug": "pv-btth-movie-battle-of-two-emperors-subtitle-indonesia",
+  "title": "PV BTTH Movie: Battle of Two Emperors Subtitle Indonesia",
+  "series_url": "/btth-movie-battle-of-two-emperors/",
+  "series_slug": "btth-movie-battle-of-two-emperors",
+  "primary_iframe": "https://ok.ru/videoembed/16406403025586",
+  "servers": [
+    {
+      "label": "OK.ru",
+      "iframe": "https://ok.ru/videoembed/16406403025586",
+      "has_ads": false
+    },
+    {
+      "label": "Dailymotion",
+      "iframe": "https://player.nunadrama.sbs/index.php?video=k5ksaws4bTWTHgMoBk6&autoplay=1&mute=1",
+      "has_ads": true
+    }
+  ],
+  "downloads": [],
+  "info": {
+    "alter_title": "破苍穹: 双帝之战",
+    "rating": "10.00",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "description": null,
+    "status": "Ongoing",
+    "studio": "Shanghai Motion Magic",
+    "network": null,
+    "release_date": "Nov 22, 2026",
+    "duration": "1 Jam 30 Menit",
+    "season": "Fall 2026",
+    "country": null,
+    "type": "Donghua",
+    "total_episodes": "1"
+  },
+  "prev_url": null,
+  "next_url": null,
+  "scraped_at": "2026-11-05T09:00:08.180957+00:00"
+}
